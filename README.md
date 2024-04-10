@@ -26,7 +26,8 @@ Our efforts hinge on a carefully assembled dataset comprising a wide range of ho
 
 ## Results
 
-Not have yet!
+![Result Image 1](results/1.png)
+![Result Image 2](results/2.png)
 ## Acknowledgements
 
 - This project is based on the CycleGAN paper by Jun-Yan Zhu et al.
